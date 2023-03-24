@@ -1,0 +1,14 @@
+h3{
+    font-size: 25px !important;
+}
+
+.btn-success:hover
+{
+    background-color: blue;
+}
+
+canvas
+{
+    border:2px dashed black;
+    background-color: grey;
+/*  */
